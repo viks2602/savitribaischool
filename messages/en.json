@@ -1,0 +1,321 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "academics": "Academics",
+    "facilities": "Facilities",
+    "admissions": "Admissions",
+    "gallery": "Gallery",
+    "news": "News",
+    "notices": "Notices",
+    "contact": "Contact"
+  },
+  "language": {
+    "switchTo": "Switch Language",
+    "marathi": "Marathi",
+    "english": "English",
+    "currentLanguage": "Current Language"
+  },
+  "common": {
+    "readMore": "Read More",
+    "viewAll": "View All",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "close": "Close",
+    "download": "Download",
+    "backToHome": "Back to Home",
+    "viewAllNews": "View All News",
+    "learnMore": "Learn More"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Information",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "copyright": "© {year} All Rights Reserved"
+  },
+  "forms": {
+    "enquiry": {
+      "title": "Enquiry Form",
+      "name": "Name",
+      "namePlaceholder": "Your full name",
+      "email": "Email",
+      "emailPlaceholder": "Your email address",
+      "phone": "Phone Number",
+      "phonePlaceholder": "Your phone number",
+      "childClass": "Child's Class",
+      "childClassPlaceholder": "Select class",
+      "message": "Message",
+      "messagePlaceholder": "Write your message here",
+      "submit": "Submit Enquiry",
+      "successMessage": "Your enquiry has been submitted successfully. We will contact you soon.",
+      "errorMessage": "An error occurred while submitting the enquiry. Please try again.",
+      "validation": {
+        "nameRequired": "Name is required",
+        "emailRequired": "Email is required",
+        "emailInvalid": "Invalid email address",
+        "phoneRequired": "Phone number is required",
+        "phoneInvalid": "Invalid phone number",
+        "messageRequired": "Message is required"
+      }
+    }
+  },
+  "school": {
+    "name": "Savitribai Phule School for Deaf and Mute",
+    "address": "Thalner Village, Shirpur, Dhule 425405, Maharashtra",
+    "description": "A dedicated educational institution for deaf and mute students"
+  },
+  "home": {
+    "hero": {
+      "title": "Empowering Deaf and Mute Students Through Quality Education",
+      "subtitle": "Welcome to Savitribai Phule School for Deaf and Mute",
+      "description": "A dedicated educational institution providing specialized learning for deaf and mute students in Thalner Village, Shirpur, Dhule",
+      "ctaAdmissions": "Apply for Admission",
+      "ctaContact": "Contact Us"
+    },
+    "highlights": {
+      "title": "Our Achievements",
+      "students": "Students",
+      "teachers": "Qualified Teachers",
+      "years": "Years of Excellence",
+      "achievements": "Awards & Achievements"
+    },
+    "news": {
+      "title": "Latest News & Events",
+      "subtitle": "Stay updated with our school activities and announcements"
+    },
+    "testimonials": {
+      "title": "What Parents Say",
+      "subtitle": "Hear from our community about their experiences"
+    }
+  },
+  "academics": {
+    "title": "Academics",
+    "subtitle": "Explore our curriculum, teaching methodologies, and specialized educational programs for deaf and mute students",
+    "curriculum": {
+      "title": "Curriculum Overview",
+      "description": "Our curriculum is specifically designed to meet the unique learning needs of deaf and mute students. We follow the Maharashtra State Board curriculum with an emphasis on visual learning techniques, sign language instruction, and hands-on experiences. Our approach ensures that every student gains the knowledge and skills they need to reach their full potential.",
+      "subjects": "Subjects",
+      "subjectsList": "Marathi, English, Mathematics, Science, Social Studies, Sign Language, Vocational Training, Arts & Crafts, Physical Education"
+    },
+    "grades": {
+      "title": "Grade-wise Information",
+      "primary": {
+        "title": "Primary (Classes 1-4)",
+        "description": "At the primary level, we focus on foundational literacy, numeracy skills, and sign language communication. Students learn through visual aids, interactive activities, and hands-on learning. Our teachers provide individualized attention to build a strong foundation for each child.",
+        "focus": "Foundational literacy, Numeracy skills, Sign language foundation, Visual learning, Social skills development"
+      },
+      "middle": {
+        "title": "Middle (Classes 5-7)",
+        "description": "At the middle level, students explore more advanced concepts and develop critical thinking skills. The curriculum places greater emphasis on science, mathematics, and language studies, while also incorporating vocational training and life skills.",
+        "focus": "Advanced literacy, Mathematical reasoning, Scientific concepts, Social studies, Introduction to vocational skills"
+      },
+      "secondary": {
+        "title": "Secondary (Classes 8-10)",
+        "description": "At the secondary level, students prepare for state board examinations. We provide in-depth knowledge across all subjects with an emphasis on vocational training and career guidance. Our students are well-prepared for higher education or vocational training.",
+        "focus": "Board exam preparation, Advanced subject knowledge, Vocational training, Career guidance, Independent living skills"
+      }
+    },
+    "methodology": {
+      "title": "Teaching Methodology",
+      "description": "Our teaching methodology is specifically designed for the unique learning needs of deaf and mute students. We use visual learning, sign language instruction, and assistive technology to create an inclusive and effective learning environment.",
+      "signLanguage": {
+        "title": "Sign Language Instruction",
+        "description": "Sign language is the foundation of our teaching. All teachers are trained in Indian Sign Language (ISL) and use sign language in all classes. Students receive comprehensive training in sign language communication, grammar, and expression."
+      },
+      "visualLearning": {
+        "title": "Visual Learning Techniques",
+        "description": "We use visual aids, diagrams, videos, and interactive multimedia to clarify concepts and enhance understanding. Our classrooms are equipped with visual learning tools that make information accessible and engaging."
+      },
+      "assistiveTech": {
+        "title": "Assistive Technology",
+        "description": "Our school is equipped with modern assistive technology, including hearing aids, FM systems, visual alert systems, and educational software. This technology helps students fully participate in their learning experience."
+      },
+      "individualized": {
+        "title": "Individualized Attention",
+        "description": "We maintain small class sizes so that each student can receive individualized attention. Teachers adapt to each child's learning pace and customize teaching strategies to meet their specific needs."
+      }
+    },
+    "calendar": {
+      "title": "Academic Calendar",
+      "description": "Our academic year begins in June and ends in March. We follow the Maharashtra State Board academic calendar with regular assessments, examinations, and holidays.",
+      "download": "Download Academic Calendar"
+    }
+  },
+  "facilities": {
+    "title": "Facilities",
+    "subtitle": "Explore our modern infrastructure designed specifically for deaf and mute students",
+    "library": {
+      "title": "Library",
+      "description": "Our well-stocked library features a wide collection of books, visual learning materials, and digital resources. The library is designed with visual aids and sign language support to make reading accessible and enjoyable for all students."
+    },
+    "labs": {
+      "title": "Science & Computer Labs",
+      "description": "State-of-the-art science and computer laboratories equipped with modern equipment and assistive technology. Our labs emphasize hands-on learning and visual demonstrations to make complex concepts easy to understand."
+    },
+    "visualLearning": {
+      "title": "Visual Learning Labs",
+      "description": "Specialized labs equipped with interactive whiteboards, projectors, and multimedia systems. These labs use visual teaching methods, animations, and videos to enhance learning for deaf and mute students."
+    },
+    "assistiveTech": {
+      "title": "Assistive Technology Room",
+      "description": "A dedicated room with hearing aids, FM systems, visual alert systems, and specialized educational software. This technology helps students fully participate in their learning experience and communicate effectively."
+    },
+    "classrooms": {
+      "title": "Spacious Classrooms",
+      "description": "Bright, well-ventilated classrooms with visual aids, sign language charts, and modern teaching equipment. Small class sizes ensure every student receives individualized attention from our trained teachers."
+    },
+    "sports": {
+      "title": "Sports Facilities",
+      "description": "A large playground and sports facilities for physical education and recreational activities. We encourage students to participate in sports to develop physical fitness, teamwork, and confidence."
+    },
+    "transport": {
+      "title": "Transport Services",
+      "description": "Safe and reliable school bus services covering nearby villages and towns. Our buses are equipped with safety features and trained staff to ensure students travel comfortably and securely."
+    },
+    "cctv": {
+      "title": "CCTV Surveillance",
+      "description": "Comprehensive CCTV coverage throughout the campus for student safety and security. Our security systems ensure a safe learning environment for all students and staff."
+    },
+    "communicationSupport": {
+      "title": "Communication Support Systems",
+      "description": "Visual alert systems, sign language interpreters, and communication boards throughout the campus. These systems ensure that deaf and mute students can communicate effectively and access information easily."
+    }
+  },
+  "admissions": {
+    "title": "Admissions",
+    "subtitle": "Join our school community and give your child the gift of quality education",
+    "process": {
+      "title": "Admission Process",
+      "step1": {
+        "title": "Step 1: Enquiry",
+        "description": "Fill out the enquiry form on our website or visit the school office to learn more about our programs and admission requirements."
+      },
+      "step2": {
+        "title": "Step 2: School Visit",
+        "description": "Schedule a visit to tour our facilities, meet our teachers, and observe our specialized teaching methods for deaf and mute students."
+      },
+      "step3": {
+        "title": "Step 3: Application",
+        "description": "Download and complete the admission form. Submit it along with all required documents to the school office."
+      },
+      "step4": {
+        "title": "Step 4: Assessment",
+        "description": "Your child will undergo a simple assessment to understand their learning needs and determine the appropriate class level."
+      },
+      "step5": {
+        "title": "Step 5: Admission Confirmation",
+        "description": "Once accepted, complete the admission formalities, pay the fees, and receive the admission confirmation letter."
+      }
+    },
+    "eligibility": {
+      "title": "Eligibility Criteria",
+      "description": "We welcome students who meet the following criteria:",
+      "criteria1": "Students with hearing impairment (deaf) or speech impairment (mute)",
+      "criteria2": "Age-appropriate for the class level (as per Maharashtra State Board guidelines)",
+      "criteria3": "Medical certificate confirming hearing or speech impairment",
+      "criteria4": "Transfer certificate from previous school (if applicable)",
+      "criteria5": "Willingness to learn and adapt to our specialized teaching methods"
+    },
+    "documents": {
+      "title": "Required Documents",
+      "description": "Please prepare the following documents for admission:",
+      "doc1": "Birth certificate or age proof",
+      "doc2": "Medical certificate confirming hearing or speech impairment",
+      "doc3": "Aadhar card of student and parent/guardian",
+      "doc4": "Recent passport-size photographs (4 copies)",
+      "doc5": "Transfer certificate from previous school (if applicable)",
+      "doc6": "Previous year's report card (if applicable)",
+      "doc7": "Caste certificate (if applicable for reservation)",
+      "doc8": "Income certificate (for fee concession, if applicable)",
+      "doc9": "Address proof (electricity bill, ration card, etc.)"
+    },
+    "form": {
+      "title": "Admission Form",
+      "description": "Download the admission form, fill it out completely, and submit it to the school office along with all required documents.",
+      "download": "Download Admission Form"
+    },
+    "cta": {
+      "title": "Ready to Apply?",
+      "description": "Take the first step towards your child's bright future. Contact us today to begin the admission process.",
+      "button": "Submit Enquiry"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Learn about our school's journey, values, and commitment to excellence",
+    "history": {
+      "title": "Our History",
+      "content": "Savitribai Phule School for Deaf and Mute was established with a vision to provide quality education to deaf and mute students in rural Maharashtra. Located in Thalner Village, Shirpur, Dhule, our school has been serving the community for years, breaking barriers and creating opportunities for students with hearing and speech challenges. Our journey began with a small group of dedicated educators who believed that every child deserves access to quality education, regardless of their physical abilities."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "content": "To be a leading educational institution that empowers deaf and mute students to achieve their full potential and become confident, independent individuals who contribute meaningfully to society."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "content": "To provide comprehensive, accessible, and inclusive education through specialized teaching methodologies, sign language instruction, and assistive technology, ensuring that every student receives personalized attention and support to excel academically and socially."
+    },
+    "values": {
+      "title": "Our Values",
+      "inclusivity": {
+        "title": "Inclusivity",
+        "description": "We believe in creating an environment where every student feels valued, respected, and included."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "We strive for the highest standards in education, teaching methodologies, and student outcomes."
+      },
+      "empowerment": {
+        "title": "Empowerment",
+        "description": "We empower our students with skills, knowledge, and confidence to overcome challenges and succeed."
+      },
+      "compassion": {
+        "title": "Compassion",
+        "description": "We approach every student with understanding, patience, and genuine care for their well-being."
+      }
+    },
+    "principal": {
+      "title": "Principal's Message",
+      "name": "Principal Name",
+      "message": "Dear Parents and Students, it is my privilege to welcome you to Savitribai Phule School for Deaf and Mute. Our school is more than just an educational institution; it is a community where every child is celebrated for their unique abilities. We are committed to providing a nurturing environment where deaf and mute students can thrive academically, socially, and emotionally. Our dedicated team of educators uses innovative teaching methods, including sign language instruction and visual learning techniques, to ensure that every student receives the support they need to succeed. Together, we are building a brighter future for our students, one where they can achieve their dreams and make meaningful contributions to society."
+    },
+    "achievements": {
+      "title": "Our Achievements",
+      "timeline": [
+        {
+          "year": "2015",
+          "title": "School Establishment",
+          "description": "Founded with a mission to serve deaf and mute students in rural Maharashtra"
+        },
+        {
+          "year": "2017",
+          "title": "State Recognition",
+          "description": "Received official recognition from the Maharashtra State Board of Education"
+        },
+        {
+          "year": "2019",
+          "title": "Infrastructure Expansion",
+          "description": "Opened new visual learning labs and assistive technology center"
+        },
+        {
+          "year": "2021",
+          "title": "Excellence Award",
+          "description": "Awarded for outstanding contribution to special education in Maharashtra"
+        },
+        {
+          "year": "2023",
+          "title": "100% Results",
+          "description": "Achieved 100% pass rate in state board examinations"
+        }
+      ]
+    },
+    "infrastructure": {
+      "title": "Our Infrastructure",
+      "description": "Our school features modern facilities designed specifically for deaf and mute students, including visual learning labs, assistive technology rooms, spacious classrooms with visual aids, and specialized communication support systems."
+    }
+  }
+}
