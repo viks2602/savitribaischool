@@ -61,8 +61,8 @@ export default function ContactPage() {
                 {tFooter('phone')}
               </h3>
               <p className="text-gray-700 ml-8">
-                <a href="tel:+919876543210" className="hover:text-blue-600 transition-colors">
-                  +91 98765 43210
+                <a href="tel:+918390791996" className="hover:text-blue-600 transition-colors">
+                  +91 8390791996
                 </a>
               </p>
             </div>
@@ -76,8 +76,8 @@ export default function ContactPage() {
                 {tFooter('email')}
               </h3>
               <p className="text-gray-700 ml-8">
-                <a href="mailto:info@savitribaiphuleschool.edu" className="hover:text-blue-600 transition-colors">
-                  info@savitribaiphuleschool.edu
+                <a href="mailto:viks.0226@gmail.com" className="hover:text-blue-600 transition-colors">
+                  viks.0226@gmail.com
                 </a>
               </p>
             </div>
@@ -87,7 +87,7 @@ export default function ContactPage() {
               <h3 className="text-xl font-semibold text-gray-800 mb-4">Location</h3>
               <div className="rounded-lg overflow-hidden shadow-lg">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3732.123456789!2d74.123456!3d21.123456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjHCsDA3JzI0LjQiTiA3NMKwMDcnMjQuNCJF!5e0!3m2!1sen!2sin!4v1234567890"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d71190.45167843284!2d74.88536055820312!3d21.258555800000007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bdf2bf22d424e85%3A0x5a7a16d6e7de986f!2z4KS44KS-4KS14KS_4KSk4KWN4KSw4KWA4KSs4KS-4KSIIOCkq-ClgeCksuClhyDgpK7gpYLgpJXgpKzgpKfgpL_gpLAg4KSo4KS_4KS14KS-4KS44KWAIOCkteCkv-CkpuCljeCkr-CkvuCksuCkryDgpKXgpL7gpLPgpKjgpYfgpLA!5e1!3m2!1sen!2sin!4v1763450004635!5m2!1sen!2sin"
                   width="100%"
                   height="300"
                   style={{ border: 0 }}
